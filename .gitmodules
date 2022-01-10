@@ -1,0 +1,6 @@
+[submodule "npm-module-test-alu0101232812"]
+	path = npm-module-test-alu0101232812
+	url = https://github.com/ULL-ESIT-DMSI-1920/npm-module-test-alu0101232812.git
+[submodule "npm-module-src-alu0101232812"]
+	path = npm-module-src-alu0101232812
+	url = https://github.com/ULL-ESIT-DMSI-1920/npm-module-src-alu0101232812.git
