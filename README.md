@@ -1,2 +1,3 @@
 # Practica Módulo NPM
-Super Repositorio con los submodulos a "src" y "test"
+Sergio Pitti de Armas - alu0101232812
+### Super Repositorio con los submodulos a "src" y "test"
